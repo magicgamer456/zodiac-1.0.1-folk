@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.example.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SodiumMixin"
+  ],
+  "plugin": "com.example.mixin.ZodiacMixinPlugin",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "zodiac-refmap.json"
+}
