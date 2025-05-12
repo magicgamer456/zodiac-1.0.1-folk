@@ -1,7 +1,6 @@
 
-# NOTE I DON'T NOT OWN ZODIAC THIS IS A FOLK OF ZODIAC THIS IS NOT ASSOCIATED WITH THE ACTUAL ZODIAC
+# NOTE I DON'T NOT OWN ZODIAC THIS IS A FORK OF ZODIAC THIS IS NOT ASSOCIATED WITH THE ACTUAL ZODIAC
 # Credits to the one who made zodiac
-
 # Zodiac 1.0.1
 
 This mod patches sodium so sodium isn't able to stop pojav launcher users from using it.
