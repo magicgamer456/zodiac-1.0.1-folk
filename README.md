@@ -5,7 +5,7 @@
 
 This mod patches sodium so sodium isn't able to stop pojav launcher users from using it.
 
-# What is different about this folk
+# What is different about this fork
 Well it adds java 17 compatibility that's it.
 
 
